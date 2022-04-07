@@ -1,6 +1,6 @@
 👋 Hi, I’m @hwarden162
 
-Interested in the uses of explainable AI to investigate the effects of mutations on the transcriptional and phenotypic properties of cells. Also interested in the practical application of hypergraph theory.
+Interested in using machine learning to investigate how cells change shape in response to mutations.
 
 Find out more about me at www.hwarden.com
 
