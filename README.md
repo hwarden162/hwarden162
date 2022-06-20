@@ -4,7 +4,7 @@ Interested in using machine learning to investigate how cells change shape in re
 
 Find out more about me at www.hwarden.com
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hwarden162&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Contribution](https://activity-graph.herokuapp.com/graph?username=hwarden162&theme=react-dark&hide_border=true&area=true)
 
 
 <!---
